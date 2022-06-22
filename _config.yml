@@ -13,23 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Asdoria Sylius Demo Documentation
+title: Demo Documentation
 email: contact@asdoria.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Asdoria is a French company specialized in the design of e-commerce solutions.
-  On a daily basis, we use Sylius for our products and we share some of our work freely.
-  If you think that some of the Sylius plugins we have developed are of interest to you, it is possible to try them via the corresponding demo page below.
-  If you want to see code of each plugin, check the following link: https://github.com/asdoria
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Asdoria is a French company specialized in the design of e-commerce solutions.
+#  On a daily basis, we use Sylius for our products and we share some of our work freely.
+#  If you think that some of the Sylius plugins we have developed are of interest to you, it is possible to try them via the corresponding demo page below.
+#  If you want to see code of each plugin, check the following link: https://github.com/asdoria
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "asdoria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: asdoria_agency
 github_username:  asdoria
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
