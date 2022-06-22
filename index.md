@@ -26,7 +26,6 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
     * [Quick Shopping](#quick-shopping)
     * [Retailers Map](#retailers-map)
 * [**Demo**](#demo)
-* [**Local installation (if wanted)**](#local-installation-if-wanted)
 * [**License**](#license)
 * [**Contact**](#contact)
 ***
