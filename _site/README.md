@@ -84,30 +84,7 @@ Connect at https://demo-sylius.asdoria.fr/en_US/ with:
 | Quick Shopping | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin | https://demo-sylius.asdoria.fr/en_US/quick-shopping                                        |
 | Retailers Map | https://github.com/asdoria/AsdoriaSyliusRetailerPlugin | https://demo-sylius.asdoria.fr/admin/retailer-groups/ <br> https://demo-sylius.asdoria.fr/en_US/retailers |
 
-## Local installation (if wanted)
-***
 
-1. Create a Sylius project:
-```
-composer create-project sylius/sylius-standard asdoria-demo
-cd asdoria-demo
-
-```
-
-2. Install dependencies and initialize database:
-```
-composer install --no-scripts
-php bin/console do:da:cr
-composer run post-install-cmd
-```
-
-3. Run fixtures:
-```
-php bin/console doctrine:fixtures:load -q
-```
-4. Connect:
-> **Login:** asdoria \
-> **Password:** asdoria
 
 ## License
 ***
