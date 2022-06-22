@@ -70,18 +70,19 @@ Most of e-commerce websites need some additional features to improve user experi
 ## Demo
 ***
 Most of our plugin is open source and had an online page to try it. You will find GitHub repository and the online demo link associated to each plugin in the table below.
+Connect at https://demo-sylius.asdoria.fr/en_US/ with:
 > **Login:** asdoria \
 > **Password:** asdoria
 
-| Asdoria's Plugin                                                         | GitHub                                                      | Online Demo                                                                                                              |
-|--------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Customers Group                                                          | https://github.com/asdoria/AsdoriaSyliusProductCustomerGroup |                                                              |
-| Documents for products                                                   | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin |                                                               |
-| Facet filters |  https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin  |                                                                |
-| Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin |                                                             |
-| Products comparator | https://github.com/asdoria/AsdoriaSyliusProductComparatorPlugin |                                                                              |
-| Quick Shopping | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin |                                                                |
-| Retailers Map | https://github.com/asdoria/AsdoriaSyliusRetailerPlugin |  |
+| Asdoria's Plugin                                                         | GitHub                                                      | Online Demo                                                                                |
+|--------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Customers Group                                                          | https://github.com/asdoria/AsdoriaSyliusProductCustomerGroup | https://demo-sylius.asdoria.fr/admin/customer-groups/                                      |
+| Documents for products                                                   | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin | https://demo-sylius.asdoria.fr/admin/document-types/                                       |
+| Facet filters |  https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin  | https://demo-sylius.asdoria.fr/admin/facet-filters/                                        |
+| Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                                     |
+| Products comparator | https://github.com/asdoria/AsdoriaSyliusProductComparatorPlugin | https://demo-sylius.asdoria.fr/en_US/ <br> https://demo-sylius.asdoria.fr/en_US/comparator |
+| Quick Shopping | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin | https://demo-sylius.asdoria.fr/en_US/quick-shopping                                        |
+| Retailers Map | https://github.com/asdoria/AsdoriaSyliusRetailerPlugin | https://demo-sylius.asdoria.fr/admin/retailer-groups/ <br> https://demo-sylius.asdoria.fr/en_US/retailers |
 
 ## Local installation (if wanted)
 ***
