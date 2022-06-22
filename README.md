@@ -83,31 +83,6 @@ Most of our plugin is open source and had an online page to try it. You will fin
 | Quick Shopping | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin |                                                                |
 | Retailers Map | https://github.com/asdoria/AsdoriaSyliusRetailerPlugin |  |
 
-## Local installation (if wanted)
-***
-
-1. Create a Sylius project:
-```
-composer create-project sylius/sylius-standard asdoria-demo
-cd asdoria-demo
-
-```
-
-2. Install dependencies and initialize database:
-```
-composer install --no-scripts
-php bin/console do:da:cr
-composer run post-install-cmd
-```
-
-3. Run fixtures:
-```
-php bin/console doctrine:fixtures:load -q
-```
-4. Connect:
-> **Login:** asdoria \
-> **Password:** asdoria
-
 ## License
 ***
 
