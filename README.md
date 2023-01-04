@@ -14,13 +14,11 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
 
 * [**Overview**](#overview)
 * [**Available Plugins**](#available-plugins)
-    * [Customers Group](#customers-group)
     * [Documents for products](#documents-for-products)
     * [Facet filters](#facet-filters)
     * [Pictograms for products](#pictograms-for-products)
-    * [Products comparator](#products-comparator)
     * [Quick Shopping](#quick-shopping)
-    * [Retailers Map](#retailers-map)
+    * [Marketing Cart](#marketing-cart)
 * [**Demo**](#demo)
 * [**License**](#license)
 * [**Contact**](#contact)
@@ -29,14 +27,10 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
 ## Overview
 ***
 
-Most of e-commerce websites need some additional features to improve user experience or to manage the content of the store in a better way. Indeed, you can choose to **add pictograms or documents** on your products to help your clients to find easily some information, or just **show a map of retailers**. We also provide a **facet filters system** and the possibility to **manage users access (visiblity) to your products**. This page is dedicated to online demonstration of these fonctionnalities but you can install each plugins by following the instructions on their GitHub page, or just read [here](#local-installation-if-wanted) if you want to try all of your work.
+Most of e-commerce websites need some additional features to improve user experience or to manage the content of the store in a better way. Indeed, you can choose to **add pictograms or documents** on your products to help your clients to find easily some information. We also provide a **facet filters system** and the possibility to **create pages with products from several criteria**. This page is dedicated to online demonstration of these fonctionnalities but you can install each plugins by following the instructions on their GitHub page, or just read [here](#local-installation-if-wanted) if you want to try all of your work.
 
 ## Available plugins
 ***
-* ### Customers Group <img src="documentation/visibility.png" width="32" alt="" style="vertical-align: middle">
-
-  This plugin allow you to manage user access to products. To be more precise, you can define if a user can see a product in your catalog by creating `Customer Groups` that will be used to filter which products are visible for members of this group.
-
 * ### Documents for products <img src="documentation/documents.png" width="32" alt="" style="vertical-align: middle">
 
   The possibility to associate a product with documents is useful in many cases:
@@ -54,17 +48,13 @@ Most of e-commerce websites need some additional features to improve user experi
 
   Find easily redudant information can be easily achieved by using a system of pictograms in the description of your products.
 
-* ### Products comparator <img src="documentation/comparator.png" width="32" alt="" style="vertical-align: middle">
-
-  Give the user the ability to compare your products easily with a beautiful integration.
-
 * ### Quick Shopping <img src="documentation/quickshopping.png" width="32" alt="" style="vertical-align: middle">
 
   Add the possibility to users to add multiple variants in their shopping cart.
 
-* ### Retailers Map <img src="documentation/map.png" width="32" alt="" style="vertical-align: middle">
+* ### Marketing Cart <img src="documentation/cart.png" width="31" alt="" style="vertical-align: middle">
 
-  You can create retailers group, and retailers with a precise position on the map. Of course, each retailers group can have an icon (like brand's logo) and contact information that will displayed on the map if the user click on the icon. A search bar is also provided in the plugin. Many of the plugin use VueJS with Leaflet.
+  Simply create pages with products from several criteria such as similar attributes, taxon into Sylius Shop.
 
 ## Demo
 ***
@@ -73,15 +63,13 @@ Most of our plugin is open source and had an online page to try it. You will fin
 > **Password:** asdoria
 
 
-| Asdoria's Plugin                                                         | GitHub                                                      | Online Demo                                                                                |
-|--------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Customers Group                                                          | https://github.com/asdoria/AsdoriaSyliusProductCustomerGroup | https://demo-sylius.asdoria.fr/admin/customer-groups/                                      |
-| Documents for products                                                   | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin | https://demo-sylius.asdoria.fr/admin/document-types/                                       |
-| Facet filters |  https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin  | https://demo-sylius.asdoria.fr/admin/facet-filters/                                        |
-| Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                                     |
-| Products comparator | https://github.com/asdoria/AsdoriaSyliusProductComparatorPlugin | https://demo-sylius.asdoria.fr/en_US/ <br> https://demo-sylius.asdoria.fr/en_US/comparator |
-| Quick Shopping | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin | https://demo-sylius.asdoria.fr/en_US/quick-shopping                                        |
-| Retailers Map | https://github.com/asdoria/AsdoriaSyliusRetailerPlugin | https://demo-sylius.asdoria.fr/admin/retailer-groups/ <br> https://demo-sylius.asdoria.fr/en_US/retailers |
+| Asdoria's Plugin        | GitHub                                                        | Online Demo                                                            |
+|-------------------------|---------------------------------------------------------------|------------------------------------------------------------------------|
+| Documents for products  | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin | https://demo-sylius.asdoria.fr/admin/document-types/                   |
+| Facet filters           | https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin     | https://demo-sylius.asdoria.fr/admin/facet-filters/                    |
+| Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin       | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                 |
+| Quick Shopping          | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin   | https://demo-sylius.asdoria.fr/en_US/quick-shopping                    |
+| Marketing Cart          | https://github.com/asdoria/AsdoriaSyliusMarketingCartPlugin   | https://demo-sylius.asdoria.fr/en_US/marketing-carts/summer-collection |
 
 ## License
 ***
