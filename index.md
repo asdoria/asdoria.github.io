@@ -23,6 +23,7 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
     * [Pictograms for products](#pictograms-for-products)
     * [Quick Shopping](#quick-shopping)
     * [Marketing Cart](#marketing-cart)
+    * [Configurator](#configurator)
 * [**Demo**](#demo)
 * [**License**](#license)
 * [**Contact**](#contact)
@@ -60,6 +61,10 @@ Most of e-commerce websites need some additional features to improve user experi
 
   Simply create pages with products from several criteria such as similar attributes, taxon into Sylius Shop.
 
+* ### Configurator <img src="documentation/pencil.png" width="31" alt="" style="vertical-align: middle">
+
+  Product Configurator Improve the customer experience in a visual and intuitive environment to boost your sales ! Configure complex products easily in the back office of Sylius.
+
 ## Demo
 ***
 Most of our plugin is open source and had an online page to try it. You will find GitHub repository and the online demo link associated to each plugin in the table below.
@@ -67,14 +72,14 @@ Connect at https://demo-sylius.asdoria.fr/en_US/ with:
 > **Login:** asdoria \
 > **Password:** asdoria
 
-| Asdoria's Plugin        | GitHub                                                        | Online Demo                                                            |
-|-------------------------|---------------------------------------------------------------|------------------------------------------------------------------------|
-| Documents for products  | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin | https://demo-sylius.asdoria.fr/admin/document-types/                   |
-| Facet filters           | https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin     | https://demo-sylius.asdoria.fr/admin/facet-filters/                    |
-| Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin       | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                 |
-| Quick Shopping          | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin   | https://demo-sylius.asdoria.fr/en_US/quick-shopping                    |
-| Marketing Cart          | https://github.com/asdoria/AsdoriaSyliusMarketingCartPlugin   | https://demo-sylius.asdoria.fr/en_US/marketing-carts/summer-collection |
-
+| Asdoria's Plugin        | GitHub                                                        | Online Demo                                                                                        |
+|-------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Documents for products  | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin | https://demo-sylius.asdoria.fr/admin/document-types/                                               |
+| Facet filters           | https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin     | https://demo-sylius.asdoria.fr/admin/facet-filters/                                                |
+| Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin       | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                                             |
+| Quick Shopping          | https://github.com/asdoria/AsdoriaSyliusQuickShoppingPlugin   | https://demo-sylius.asdoria.fr/en_US/quick-shopping                                                |
+| Marketing Cart          | https://github.com/asdoria/AsdoriaSyliusMarketingCartPlugin   | https://demo-sylius.asdoria.fr/en_US/marketing-carts/summer-collection                             |
+| Configurator            | https://github.com/asdoria/AsdoriaSyliusConfiguratorPlugin    | https://demo-sylius.asdoria.fr/en_US/configurators/classic-embroidered-hat-with-your-customization |
 
 ## License
 ***
