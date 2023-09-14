@@ -27,6 +27,7 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
     * [Configurator](#configurator)
     * [Shipping Delivery Time](#shipping-delivery-time)
     * [Locale switcher](#locale-switcher)
+    * [Pickup Point](#pickup-point)
 * [**Demo**](#demo)
 * [**License**](#license)
 * [**Contact**](#contact)
@@ -80,6 +81,10 @@ Most of e-commerce websites need some additional features to improve user experi
 
   This plugin allows you to change locale in sylius shop while keeping the page you are on.
 
+* ### Pickup Point <img src="documentation/location.svg" width="31" alt="" style="vertical-align: middle">
+
+  This plugin allows you to retrieve and use pickup points from different providers in your Sylius Shop.
+
 ## Demo
 ***
 Most of our plugin is open source and had an online page to try it. You will find GitHub repository and the online demo link associated to each plugin in the table below.
@@ -89,7 +94,7 @@ Connect at https://demo-sylius.asdoria.fr/en_US/ with:
 
 | Asdoria's Plugin        | GitHub                                                             | Online Demo                                                                                        |
 |-------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Quote request           | https://github.com/asdoria/AsdoriaSyliusQuoteRequestPlugin         | https://demo-sylius.asdoria.fr/en_US/products/knitted-wool-blend-green-cap                         |
+| Quote request           | https://github.com/asdoria/AsdoriaSyliusQuoteRequestPlugin         | https://demo-sylius.asdoria.fr/en_US/quote-request/                                                |
 | Documents for products  | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin      | https://demo-sylius.asdoria.fr/admin/document-types/                                               |
 | Facet filters           | https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin          | https://demo-sylius.asdoria.fr/admin/facet-filters/                                                |
 | Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin            | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                                             |
@@ -98,6 +103,7 @@ Connect at https://demo-sylius.asdoria.fr/en_US/ with:
 | Configurator            | https://github.com/asdoria/AsdoriaSyliusConfiguratorPlugin         | https://demo-sylius.asdoria.fr/en_US/configurators/classic-embroidered-hat-with-your-customization |
 | Shipping Delivery Time  | https://github.com/asdoria/AsdoriaSyliusShippingDeliveryTimePlugin | https://demo-sylius.asdoria.fr/en_US/products/sport-basic-white-t-shirt                            |
 | Locale switcher         | https://github.com/asdoria/AsdoriaSyliusLocaleSwitcherPlugin       | https://demo-sylius.asdoria.fr/en_US/                                                              |
+| Pickup Point            | https://github.com/asdoria/SyliusPickupPointPlugin                 | https://demo-sylius.asdoria.fr/en_US/checkout/select-shipping                                      |
 ## License
 ***
 
