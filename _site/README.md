@@ -14,6 +14,7 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
 
 * [**Overview**](#overview)
 * [**Available Plugins**](#available-plugins)
+    * [Quote request](#quote-request)
     * [Documents for products](#documents-for-products)
     * [Facet filters](#facet-filters)
     * [Pictograms for products](#pictograms-for-products)
@@ -34,6 +35,10 @@ Most of e-commerce websites need some additional features to improve user experi
 
 ## Available plugins
 ***
+* ### Quote request <img src="documentation/cart-plus.svg" width="31" alt="" style="vertical-align: middle">
+
+  This plugin add quote request's managment into Sylius Shop.
+
 * ### Documents for products <img src="documentation/documents.png" width="32" alt="" style="vertical-align: middle">
 
   The possibility to associate a product with documents is useful in many cases:
@@ -80,6 +85,7 @@ Connect at https://demo-sylius.asdoria.fr/en_US/ with:
 
 | Asdoria's Plugin        | GitHub                                                             | Online Demo                                                                                        |
 |-------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Quote request           | https://github.com/asdoria/AsdoriaSyliusQuoteRequestPlugin         | https://demo-sylius.asdoria.fr/en_US/products/knitted-wool-blend-green-cap                         |
 | Documents for products  | https://github.com/asdoria/AsdoriaSyliusProductDocumentPlugin      | https://demo-sylius.asdoria.fr/admin/document-types/                                               |
 | Facet filters           | https://github.com/asdoria/AsdoriaSyliusFacetFilterPlugin          | https://demo-sylius.asdoria.fr/admin/facet-filters/                                                |
 | Pictograms for products | https://github.com/asdoria/AsdoriaSyliusPictogramPlugin            | https://demo-sylius.asdoria.fr/admin/pictogram-groups/                                             |
