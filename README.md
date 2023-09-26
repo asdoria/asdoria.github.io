@@ -24,6 +24,7 @@ To learn more about us, please visit https://www.asdoria-web-agency.com/
     * [Shipping Delivery Time](#shipping-delivery-time)
     * [Locale switcher](#locale-switcher)
     * [Pickup Point](#pickup-point)
+    * [Catalog Mode](#catalog-mode)
 * [**Demo**](#demo)
 * [**License**](#license)
 * [**Contact**](#contact)
@@ -36,7 +37,7 @@ Most of e-commerce websites need some additional features to improve user experi
 
 ## Available plugins
 ***
-* ### Quote request <img src="documentation/cart-plus.svg" width="31" alt="" style="vertical-align: middle">
+* ### Quote request <img src="documentation/quote.svg" width="31" alt="" style="vertical-align: middle">
 
   This plugin add quote request's managment into Sylius Shop.
 
@@ -81,6 +82,10 @@ Most of e-commerce websites need some additional features to improve user experi
 
   This plugin allows you to retrieve and use pickup points from different providers in your Sylius Shop.
 
+* ### Catalog Mode <img src="documentation/shop-lock.svg" width="31" alt="" style="vertical-align: middle">
+
+  This plugin adds a catalog mode that blocks the add-to-cart and checkout processes.
+
 ## Demo
 ***
 Most of our plugin is open source and had an online page to try it. You will find GitHub repository and the online demo link associated to each plugin in the table below.
@@ -100,6 +105,7 @@ Most of our plugin is open source and had an online page to try it. You will fin
 | Shipping Delivery Time  | https://github.com/asdoria/AsdoriaSyliusShippingDeliveryTimePlugin | https://demo-sylius.asdoria.fr/en_US/products/sport-basic-white-t-shirt                            |
 | Locale switcher         | https://github.com/asdoria/AsdoriaSyliusLocaleSwitcherPlugin       | https://demo-sylius.asdoria.fr/en_US/                                                              |
 | Pickup Point            | https://github.com/asdoria/SyliusPickupPointPlugin                 | https://demo-sylius.asdoria.fr/en_US/checkout/select-shipping                                      |
+| Catalog Mode            | https://github.com/asdoria/AsdoriaSyliusCatalogModePlugin          | https://demo-sylius.asdoria.fr/admin/channels/1/edit                                               |
 ## License
 ***
 
